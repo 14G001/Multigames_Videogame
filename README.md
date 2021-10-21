@@ -1,4 +1,4 @@
-# VIDEOGAME PROJECT
+# VIDEOGAME PROJECT 🎮
 
 <p align="center"> <img src="https://i.ibb.co/GRNb5p3/6.png"> <p align="center">
 
