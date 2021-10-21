@@ -4,7 +4,7 @@
 
 ## +[Versions](https://github.com/14G001/Videogame/releases)
 
-The idea is that in the end, the video game has multiple game modes and different configuration options.
+**The idea is that in the end, the video game has multiple game modes and different configuration options.**
 
 ### Objectives
 - [x] **Create a player and make it move with the keyboard.**
