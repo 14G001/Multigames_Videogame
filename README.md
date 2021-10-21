@@ -2,7 +2,8 @@
 
 <p align="center"> <img src="https://i.ibb.co/GRNb5p3/6.png"> <p align="center">
 
-## +[Versions](https://github.com/14G001/Videogame/releases)
+## - [Versions](https://github.com/14G001/Videogame/releases)
+## - [Progress](https://github.com/14G001/Videogame/tags)
 
 **The idea is that in the end, the video game has multiple game modes and different configuration options.**
 
