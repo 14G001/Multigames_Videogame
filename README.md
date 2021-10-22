@@ -15,6 +15,6 @@
 - [ ] **Add console in which different commands can be written.**
 - [ ] **Add an option to play only with the mouse.**
 - [ ] **Add a game mode with enemies.**
-- [ ] **Add a game mode where you can shot**
-- [ ] **Add a game mode like Donkey Kong**
-- [ ] **Add multiplayer/online mode**
+- [ ] **Add a game mode where you can shot.**
+- [ ] **Add a game mode like Donkey Kong.**
+- [ ] **Add multiplayer/online mode.**
