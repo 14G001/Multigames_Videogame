@@ -42,7 +42,7 @@ int main()
 
 	drawMap();
 
-	while (!GetAsyncKeyState(0x1B) && !GetAsyncKeyState(0x0D)) { // Tecla "Esc".
+	while (!GetAsyncKeyState(0x1B) && !GetAsyncKeyState(0x0D)) { // "Esc" key and "Enter" key.
 		if (kbhit()) {
 			if (GetAsyncKeyState(0x26) || GetAsyncKeyState(0x57)) { // Up (jump)
 				if (!Player.crouched) {
